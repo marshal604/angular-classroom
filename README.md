@@ -9,3 +9,5 @@
 [Angular 小教室 Demo Link](https://marshal604.github.io/angular-classroom/demo)
 
 ## 文章連結
+
+- 2019/03/13 [Angular 小教室 - 如何建置專案](https://github.com/marshal604/blog/issues/1)
